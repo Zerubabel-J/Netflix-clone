@@ -1,6 +1,9 @@
+.lists li {
+  color: white;
+}
 .header-outer-container {
   background-color: #333; /* Set your desired background color */
-  padding: 10px; /* Add padding as needed */
+  padding: 0; /* Add padding as needed */
 }
 
 .header-container {
